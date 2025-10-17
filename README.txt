@@ -1,4 +1,4 @@
-Hi, I’m Nancy Aba Warden
+Hi, I’m Nancy Aba Warden (https://cyaba.github.io/Website/)
 
 I’m a Data Analyst passionate about transforming data into insights that guide meaningful decisions.  
 I enjoy exploring datasets, automating workflows, and creating data-driven solutions that solve real-world problems.
@@ -28,6 +28,7 @@ Let’s Connect
 [LinkedIn](https://www.linkedin.com/in/nancyabawarden) | [Portfolio](https://github.com/Cyaba/Portfolio) | [Email](mailto:wardennancyaba@gmail.com)
 
 “Data is more than numbers — it’s the story behind decisions.”
+
 
 
 
